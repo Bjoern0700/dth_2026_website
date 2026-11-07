@@ -1,6 +1,6 @@
 # Page one
 
-## Advantages of open source.
+## Advantages of open source
 
 Open source is a possibility for all people to change or edit internetpages in a large degree without having to worry about if it`s allowed or not. 
 This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
