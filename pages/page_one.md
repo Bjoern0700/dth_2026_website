@@ -10,7 +10,7 @@ Everything you see here is written in the file **pages/page_one.md**. Change the
 - one item
 - another item
 
-### A smaller headline
+### Examples of advantages
 
 You can also add images from the assets folder:
 
