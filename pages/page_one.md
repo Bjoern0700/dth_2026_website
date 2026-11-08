@@ -28,12 +28,12 @@ You can also add images from the assets folder:
           <article class="carouselArt inFocusArt" data-artID="2">
             <h3>headline for article 2</h3>
             <img src="./assets/images/monaco.jpg" alt="article 2 banner image" />
-            <p>This is the text for article 2, you can write here whatever you want.</p>
+            <p>This is the text for article 2, you can write here whatever you want.
           </article>
           <article class="carouselArt outOfFocusArt" data-artID="3">
             <h3>headline for article 3</h3>
             <img src="./assets/images/mountains.jpg" alt="article 3 banner image" />
-            <p>This is the text for article 3, you can write here whatever you want.</p>
+            <p>This is the text for article 3, you can write here whatever you want.
           </article>
         </div>
         <div id="carouselBtnContainer" class="flex">
