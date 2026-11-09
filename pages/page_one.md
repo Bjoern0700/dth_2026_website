@@ -12,8 +12,6 @@ Everything you see here is written in the file **pages/page_one.md**. Change the
 - Transparency
 - Modification of workflow
 
-### Examples of advantages
-
 You can also add images from the assets folder:
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
