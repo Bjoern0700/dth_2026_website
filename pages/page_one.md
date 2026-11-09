@@ -8,6 +8,7 @@ Open source is a possibility for all people to edit websites in a large degree w
 ### Examples of advantages
 
 - Transparency
+
 With this method of transparency, errors can be found much more easily rapid and efficient, because the range of people having access to them is a lot larger, than if there was a limit on people being able or allowed to work on them. 
 They do not need much of approval from higher authorities or similar and can do their work. Open source also is free to use for everybody, which micht make it more considerable to use than closed source. 
 
