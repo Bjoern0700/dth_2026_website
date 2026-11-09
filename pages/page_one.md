@@ -8,7 +8,7 @@ This is the first paragraph. The first paragraph after a headline is displayed i
 Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
 
 - Transparency
-- another item
+- Modification of workflow
 
 ### Examples of advantages
 
