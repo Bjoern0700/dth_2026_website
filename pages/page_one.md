@@ -40,5 +40,3 @@ You can also add images from the assets folder:
           <button id="carouselBtnLeft" class="carouselBtn">&#x2B9C;</button>
           <button id="carouselBtnRight" class="carouselBtn">&#x2B9E;</button>
         </div>
-
-index.html
