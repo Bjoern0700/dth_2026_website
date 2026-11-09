@@ -12,7 +12,7 @@ With this method of transparency, errors can be found much more easily rapid and
 They do not need much of approval from higher authorities or similar and can do their work. Open source also is free to use for everybody, which micht make it more considerable to use than closed source. 
 
 - Modification of workflow
-*Learning and network building*
+- *Learning and network building*
 
 You can also add images from the assets folder:
 
