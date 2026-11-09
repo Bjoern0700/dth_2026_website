@@ -11,6 +11,7 @@ Everything you see here is written in the file **pages/page_one.md**. Change the
 
 - Transparency
 - Modification of workflow
+*Learning and network building*
 
 You can also add images from the assets folder:
 
