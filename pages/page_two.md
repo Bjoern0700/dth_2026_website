@@ -9,6 +9,6 @@ There is only one HTML file, index.html. It holds the frame around the text: the
 
 ### Examples of disadvantages
 
-1. Numbered lists work too
+1. Insertion of unnoticed changes
 2. Just start the lines with numbers
 3. Going further
