@@ -17,6 +17,8 @@ They do not need much of approval from higher authorities or similar and can do 
 There are chances to modify one’s own workflows within the desired field of work, whether it being a work project, something of own interest or something else. Having something work on open source also makes more certain of it being present over time and not vanishing at some point, because of the original creator does not alter in the project anymore. It can be continued by the community that might have caught the projects interest, so it is not going to stop abruptly. 
 - *Learning and network building*
 
+The learning and network building also benefits from open source, because people can help each other both faster and with more outcomes/solutions, because there are more possibilities of perspectives on open source projects due to the wider range of the chain. Accompanied to this, the trustworthiness is perhaps a positive point, when having a community of people working together on varieties of projects and contribute to them and help each other improving their ideas and thoughts to the best real digital versions. Also regarding to market share on open source being free (Heron et. Al. 2013, 3) might be advantaged, because there simply are more people available to share ideas or projects, when the interests are matching.
+
 You can also add images from the assets folder:
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
