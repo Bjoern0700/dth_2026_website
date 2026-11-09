@@ -13,6 +13,8 @@ With this method of transparency, errors can be found much more easily rapid and
 They do not need much of approval from higher authorities or similar and can do their work. Open source also is free to use for everybody, which micht make it more considerable to use than closed source. 
 
 - Modification of workflow
+
+There are chances to modify one’s own workflows within the desired field of work, whether it being a work project, something of own interest or something else. Having something work on open source also makes more certain of it being present over time and not vanishing at some point, because of the original creator does not alter in the project anymore. It can be continued by the community that might have caught the projects interest, so it is not going to stop abruptly. 
 - *Learning and network building*
 
 You can also add images from the assets folder:
