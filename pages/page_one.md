@@ -9,8 +9,10 @@ Open source is a possibility for all people to edit websites in a large degree w
 
 - Transparency
 
-With this method of transparency, errors can be found much more easily rapid and efficient, because the range of people having access to them is a lot larger, than if there was a limit on people being able or allowed to work on them. 
-They do not need much of approval from higher authorities or similar and can do their work. Open source also is free to use for everybody, which micht make it more considerable to use than closed source. 
+With this method, errors can be found much more easily rapid and efficient, because the range of people having access to them is a lot larger, than if there was a limit on people being able or allowed to work on them (AlMarzouq. Et al., 2005,770). Security also benefits, because of the transparent user’s privacy and personal data within large corporations and governments (Prokakis, 2022, 4).
+They do not need much of approval from higher authorities or similar and can do their work. Rather than being dependent on the owner of the software, open source relies on licenses, users can acquire to use the software without the owner having anything to do with the project (Trappler, 2009).
+Open source also is free to use for everybody, which micht make it more considerable to use than closed source (AlMarzouq. Et al., 2005, 770). 
+
 
 - Modification of workflow
 
