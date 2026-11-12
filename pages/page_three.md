@@ -1,4 +1,4 @@
- # Open source
+ # Useful open source project in major studies
 
 ## Advantages of open source
 
