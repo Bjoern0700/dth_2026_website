@@ -2,7 +2,7 @@
 
 ## Advantages of open source
 
-Open source is a possibility for all people to edit websites in a large degree without having to worry about if it`s allowed or not. 
+Open source is a possibility for all people to edit websites in a large degree without having to worry about if it is allowed or not. 
 
 
 ### Examples of advantages
