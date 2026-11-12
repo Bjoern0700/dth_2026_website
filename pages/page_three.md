@@ -1,4 +1,4 @@
- # Useful open source project in major studies
+ # Useful open source project in german studies
 
 ## A tool for summaries of books and all sorts of text
 
