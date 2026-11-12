@@ -7,7 +7,7 @@ Open source is a possibility for all people to edit websites in a large degree w
 
 ### Examples of advantages
 
-- Transparency
+- Transparency, safety and payment
 
 Errors can be found much more easily rapid and efficient, because the range of people having access to them is a lot larger, than if there was a limit on people being able or allowed to work on them. Programmers do not need much of approval from anywhere and can do their work. Rather than being dependent on the owner of the software, open source relies on licenses, users can acquire to use the software without the owner having anything to do with the project. Security also benefits, because of the transparent user’s privacy and personal data within large corporations and governments. 
 Open source also is free to use for everybody, which micht make it more considerable to use than closed source. One thing having in mind as well is, that the concept of “free” in this sense only refers to the user’s currency, which the software converts into funding their data.
