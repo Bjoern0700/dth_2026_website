@@ -1,6 +1,6 @@
  # Useful open source project in major studies
 
-## Advantages of open source
+## A tool for summaries of books and all sorts of text
 
 Open source is a possibility for all people to edit websites in a large degree without having to worry about if it`s allowed or not. 
 This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
