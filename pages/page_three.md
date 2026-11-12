@@ -2,10 +2,8 @@
 
 ## A tool for summaries of books and all sorts of text
 
-Open source is a possibility for all people to edit websites in a large degree without having to worry about if it`s allowed or not. 
-This is the first paragraph. The first paragraph after a headline is displayed in a lighter font weight.
-
-Everything you see here is written in the file **pages/page_one.md**. Change the text there, save, and reload the page. You can use **bold**, *italics*, [links](https://www.sdu.dk) and lists:
+When reading books and texts, depending on the number of pages (amount of content), it can take a lot of time to get through them. 
+The tool is meant to be help for to make reading less time consuming. Summarizing the most important points as well as perhaps some side information important to use from within the text. Searching a little the open source project “QuickSummary” seems to fulfil/meet the functions of what the tool is supposed to be able to do. 
 
 - one item
 - another item
