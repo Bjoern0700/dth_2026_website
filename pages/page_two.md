@@ -2,7 +2,7 @@
 
 ## Disadvantages of open source
 
-The disadvantages in open source appear in even having a big community caring for the construct of open source and making it as secure, because inefficient pieces of programming might blend in with the efficient pieces and stick out enough to be noticed at first.
+The disadvantages in open source appear in even when having a big community caring for the construct of open source and making it as secure, there still might be inefficient pieces of programming being blended in with the efficient pieces and stick out enough to be noticed at first.
 
 
 ### Examples of disadvantages
