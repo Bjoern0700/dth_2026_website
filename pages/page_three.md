@@ -18,4 +18,4 @@ In general, it is a great approach working together with the idea of summarizing
 
 ## References
 
-https://github.com/skainguyen1412/QuickSummary 
+https://github.com/skainguyen1412/QuickSummary (Accessed: 9 October 2026)
