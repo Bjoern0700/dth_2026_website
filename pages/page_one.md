@@ -16,7 +16,7 @@ Open source also is free to use for everybody, which micht make it more consider
 
 - Modification of workflow
 
-There are chances to modify one’s own workflows within the desired field of work, whether it being a work project, something of own interest, etc. Having something work on open source also makes more certain of it being present over time and not vanishing at some point, because of the original creator does not alter in the project anymore. It can be continued by the community that might have caught the projects interest, so it is not going to stop abruptly. 
+There are chances to modify one’s own workflows within the desired field of work, whether it being a work project, something of own interest, etc. Having something work on open source also makes more certain of it being present over time and not vanishing at some point, because of the original creator not altering within in the project anymore. It can be continued by the community that might have caught the projects interest, so it is not going to stop abruptly. 
 
 - *Learning and network building*
 
