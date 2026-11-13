@@ -7,7 +7,6 @@ The tool is meant to be a help to make reading less time consuming. Summarizing 
 
 ### QuickSummary as the chosen Github repository
 
-https://github.com/skainguyen1412/QuickSummary
 
 It does not only consist of text summarizing but also includes multimedia-oriented features such as transcription and summarization of content of audio, video and image. 
 
@@ -18,3 +17,5 @@ It uses the “MIT licence” to run under. Its last change was committed on Sep
 In general, it is a great approach working together with the idea of summarizing content of whatever sort, but an issue, coming to mind is, that it works through AI. Just as humans, AI also makes mistakes and giving it full trust to one’s work seems a bit much. Because whatever project it helps you working on, there might appear errors from AI as well, but the responsibility relies on the user of it. So, there is that. AI generally should be seen as a tool to help with whatever tasks a person has to do with, but not to do the work for them. Here it might seem to include a double standard, to think of a tool, but not trusting it 100%. 
 
 ## References
+
+https://github.com/skainguyen1412/QuickSummary 

@@ -16,3 +16,16 @@ There is always a chance for someone to sneak in changes or features, which do n
 Another and perhaps far more important flaw is, how this can be done. Some users might be excellent at disguising their flaws into the system, that it either takes a lot of time and energy or worse, that it never gets found. And depending on what the program, the flaw was merged into, contains and what the bug does, it might slow down, steal or manipulate important data. Here it also makes it difficult to determine who is responsible for the error due to both the open accessibility for users and for the fact that a username might be used by multiple people making it more difficult finding the root of the problem. Because when communicating with a person thinking they are from a specific place and later realizing they might have taken a username from another person to disguise themselves, might take time to discover who it actually is. 
 
 ## References
+
+AlMarzouq, M., Zheng, L., Rong, Guang., Grover, V. (2005). Open Source: Concepts, Benefits, and Challenges. Communications of the Association for Information Systems. 16, 755-785. 
+https://doi.org/10.17705/1CAIS.01637 (Accessed: October 8, 2026)
+
+
+Carter, Alex. (2024). XZ Backdoor: The full story in one place. daily.dev. April 17, 2024 https://daily.dev/blog/xz-backdoor-the-full-story-in-one-place/ (Accessed: October 8, 2026)
+
+
+Chen, Y., Hu, X., Yin, K., Li, J., Zhang, S. (2025). Evaluating the Robustness of Multimodal Agents Against Active Environmental Injection Attacks. MM ’25, October 27–31, 2025, Dublin, Ireland, ACM. 11648-11656. 
+https://doi.org/10.1145/3746027.3755646 (Accessed: October 8, 2026)
+
+
+Nord, R. L., Ozkaya, I., Shull, F. (2017). Software Vulnerabilities, Defects, and Design Flaws: A Technical Debt Perspective. Proceedings of the Fourteenth Annual Acquisition Research Symposium, (1) Acquisition Research: Creating Synergy for Informed Change April 26–27, 2017 Published March 31, 2017. 66-77. 

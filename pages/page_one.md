@@ -24,6 +24,21 @@ The learning and network building also benefits from open source, because people
 
 ## References
 
+AlMarzouq, M., Zheng, L., Rong, Guang., Grover, V. (2005). Open Source: Concepts, Benefits, and Challenges. Communications of the Association for Information Systems. 16, 755-785. 
+https://doi.org/10.17705/1CAIS.01637 (Accessed: October 8, 2026)
+
+
+Heron, Michael, Hanson L, Vicki, Ricketts Ian. (2013). Open source and accessibility: advantages and limitations. Jornal of interaction science. 1,2. 1-10. (Accessed: October 8, 2026) 
+
+
+Prokakis, E. (2022). Free and Open-Source Software: Freedom, Transparency and Efficiency  in the Digitalization Era. Journal of Politics and Ethics in New Technologies and AI, 1(1), e31230. https://doi.org/10.12681/jpentai.31230 (accessed October 8, 2026)
+
+
+Trappler, Thomas. (2009). Is There Such a Thing as Free Software? The Pros and Cons of Open-Source Software. In EDUCAUSE Review.
+https://er.educause.edu/articles/2009/7/is-there-such-a-thing-as-free-software-the-pros-and-cons-of-opensource-software (Accessed: October 8, 2026) 
+
+
+
 You can also add images from the assets folder:
 
 ![The beach at Skagen](./assets/images/skagen.jpg)
