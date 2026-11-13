@@ -17,3 +17,4 @@ It uses the “MIT licence” to run under. Its last change was committed on Sep
 
 In general, it is a great approach working together with the idea of summarizing content of whatever sort, but an issue, coming to mind is, that it works through AI. Just as humans, AI also makes mistakes and giving it full trust to one’s work seems a bit much. Because whatever project it helps you working on, there might appear errors from AI as well, but the responsibility relies on the user of it. So, there is that. AI generally should be seen as a tool to help with whatever tasks a person has to do with, but not to do the work for them. Here it might seem to include a double standard, to think of a tool, but not trusting it 100%. 
 
+##References

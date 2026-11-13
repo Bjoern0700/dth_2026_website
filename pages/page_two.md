@@ -14,3 +14,5 @@ There is always a chance for someone to sneak in changes or features, which do n
 2. Disguising flaws
 
 Another and perhaps far more important flaw is, how this can be done. Some users might be excellent at disguising their flaws into the system, that it either takes a lot of time and energy or worse, that it never gets found. And depending on what the program, the flaw was merged into, contains and what the bug does, it might slow down, steal or manipulate important data. Here it also makes it difficult to determine who is responsible for the error due to both the open accessibility for users and for the fact that a username might be used by multiple people making it more difficult finding the root of the problem. Because when communicating with a person thinking they are from a specific place and later realizing they might have taken a username from another person to disguise themselves, might take time to discover who it actually is. 
+
+##References
